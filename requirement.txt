@@ -1,0 +1,1 @@
+pyyam1==5.3.1 #known vulnerable version (arbitrary code execution via full_load)
